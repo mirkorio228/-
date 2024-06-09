@@ -1,0 +1,32 @@
+body
+{
+background-color: white;
+color: rgb(rgb(211, 63, 63), rgb(37, 34, 223), blue);
+font-size: 100px;
+padding: 30px;
+text-align: center;
+
+}
+main
+{
+text-align: left;
+font-size: 25px;
+background-image: url(https://avatars.mds.yandex.net/i?id=d977dbd963e78fe6174be694979bf4e104909c09-8220238-images-thumbs&n=13.jpg);
+background-size: 0cap;
+
+}
+.right{
+float: right;
+}
+div {
+
+text-align: right;
+height: 100 px;
+
+}
+.left{
+padding-right: 100%;
+
+
+
+}
